@@ -1,11 +1,10 @@
 # Hi there, I'm Vikash Pathak! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with expertise in various technologies. I love building innovative projects and contributing to open-source. Let's explore some interesting facts about my GitHub activity.
+Welcome to my GitHub profile! I'm a passionate software developer with expertise in various technologies. I love building innovative projects and contributing to open-source.
 
-- 🔭 I’m currently working on enhancing my coding skills and exploring new technologies.
-- 🌱 I’m continuously learning and improving my knowledge in software development.
-- 💼 I’m open to exciting job opportunities and collaborations.
-
+- 🔭
+- 🌱
+- 💼 
 
 ## Stacks and Technologies
 

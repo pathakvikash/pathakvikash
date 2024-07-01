@@ -1,21 +1,14 @@
-# Hi there, I'm Vikash Pathak! 👋
+# Hi, I'm Vikash Pathak! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with expertise in various technologies. I love building innovative projects and contributing to open-source.
+![YouAreVisitor](https://komarev.com/ghpvc/?username=pathakvikash&label=You+Are+Visitor&color=blueviolet&style=for-the-badge)
 
-- 🔭
-- 🌱
-- 💼 
+I'm a full-stack developer with a passion for open-source projects. If you have any questions or need help regarding my projects, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/vikash-pathak-298a01183/).
 
-## Stacks and Technologies
+## Skills
 
-🛠️ Some of the technologies and stacks I've worked with:
+![SkillIcons](https://skillicons.dev/icons?i=js,html,css,py,ts,git,github,nodejs,tailwind,nextjs,react,redux,express,solidity)
 
-- Front-end: HTML, CSS, JavaScript, React, Redux, Next.js
-- Back-end: Node.js, Express
-- Databases: MySQL, MongoDB
-- DevOps: Git, Docker
-- Blockchain: Solidity, Hardhat
+## Stats
 
-Feel free to explore my repositories and contributions. If you find something interesting or have any questions or suggestions, feel free to reach out. Let's connect and collaborate!
-
-Happy coding! 😄
+![GitHubStats](https://github-readme-stats.vercel.app/api?username=pathakvikash&show_icons=true&title_color=blueviolet&bg_color=00000000&icon_color=blueviolet&hide_border=true&text_color=AFE1AF&card_width=350)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=pathakvikash&layout=compact&title_color=blueviolet&bg_color=00000000&icon_color=blueviolet&hide_border=true&text_color=AFE1AF&card_width=350)

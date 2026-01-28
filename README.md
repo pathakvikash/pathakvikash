@@ -21,7 +21,7 @@
 
 ---
 
-- 👨‍💻 As an Software and Blocking Developer, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As an Software and Blockchain Developer, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Web Development, AI.
 - 🌱 I’m diving deeper into _[Synthetic Data Generation](https://www.coursera.org/browse/data-science/machine-learning)_ and _[AI AGENTS](https://www.deeplearning.ai/)_
 

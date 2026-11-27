@@ -41,6 +41,9 @@ For AI work: LLM APIs, Ollama, MCP, CrewAI, RAG with pgvector.
 
 ## Writing
 
+- [One chat, four apps: making Orrery call my other projects over MCP](https://0xpathak.hashnode.dev/one-chat-four-apps)
+- [Using local Claude Code from a deployed web app](https://0xpathak.hashnode.dev/using-local-claude-code-from-a-deployed-web-app)
+- [Orrery: a short how-to](https://0xpathak.hashnode.dev/orrery-a-short-how-to)
 - [Complete Guide to MERN Authentication](https://0xpathak.hashnode.dev/complete-guide-to-mern-authentication-from-setup-to-deployment)
 - [Building a PDF Q&A Tool with Ollama](https://0xpathak.hashnode.dev/step-by-step-guide-to-developing-a-pdf-actor-tool-with-ollama)
 - [SQL Aggregate Functions: A Basic Overview](https://0xpathak.hashnode.dev/sql-aggregate-functions-a-basic-overview)
